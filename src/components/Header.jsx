@@ -14,7 +14,7 @@ function Header() {
         </div>
       </div>
 
-      <div className="d-flex align-items-center mb-3 gap-5">
+      <div className="d-flex align-items-between mb-3 gap-5">
         <div
           className="rounded-circle  bg-primary"
           style={{ width: "80px", height: "80px" }}
